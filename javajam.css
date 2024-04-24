@@ -122,14 +122,14 @@ input, textarea {
 	margin-bottom: .5em;
 }
 
-item {
+#item {
 	background-color: #FAF9F7;
 	padding: 1em;
 	margin: 1em;
 	overflow: auto;
 }
 
-item img {
+#item img {
 	float: right;
 }
 
